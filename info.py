@@ -59,7 +59,7 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Autodb01:Autodb01@autodb01.iirm4.mongodb.net/?retryWrites=true&w=majority&appName=Autodb01")   # IF Multiple Database Is False Then Fill Only This Database Url.
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://PALY-Z-AUTO-FILTER:XoflKB69iFJYTxC3@palyz-auto-filter.wwy6mba.mongodb.net/?retryWrites=true&w=majority&appName=palyz-auto-filter")   # IF Multiple Database Is False Then Fill Only This Database Url.
 DATABASE_NAME = environ.get('DATABASE_NAME', "Autodb01")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'vjcollection')
 

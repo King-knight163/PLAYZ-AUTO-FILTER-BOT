@@ -88,7 +88,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'log_channel_playz') # 
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Play_z_Hacking_Discussion')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+wctwFDWc2kRmZDVl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/PLAYZ_HACKING')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT','https://t.me/Play_z_Hacking_Discussion') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/PLAYZ_90')

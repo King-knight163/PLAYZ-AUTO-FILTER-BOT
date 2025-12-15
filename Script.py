@@ -105,51 +105,109 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 # Subscribe YouTube Channel For Amazing Bot @Tech_PLAY-Z
 # Ask Doubt on telegram @KingPLAY-Z01
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
-<b>ɴᴏᴛᴇ:</b>
- <b>✯ Maintained by : <a href={}>Owner</a></b>
-  
- <b>✯ Join here : <a href={}>Update Channel</a></b> 
-  
- ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
- code> 
-  
- ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
-  
- ./song - Download any song [<code>example /song vaa vaathi song</code>] 
-  
- ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
-  
- ./tts - <code>This command usage text to voice converter</code> 
-  
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/example...</code>]
+    EXTRAMOD_TXT = """
+<b>╭━━━ ❖ ᴇxᴛʀᴀ ᴍᴏᴅᴜʟᴇs ❖ ━━━╮</b>
 
-./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
+<b>📌 ɴᴏᴛᴇ :</b>
+<b>✦ Maintained by :</b> <a href="https://playz_help_bot">👑 Owner</a>
+<b>✦ Join here :</b> <a href="https://t.me/playz_hacking">📢 Update Channel</a>
 
+<b>╰━━━━━━━━━━━━━━━━━━━╯</b>
 
-    ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
-<b>ɴᴏᴛᴇ:</b>
-Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
-Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
-• /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
-• /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
-• /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ.</code>
-• /users - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴜꜱᴇʀꜱ ᴀɴᴅ ɪᴅꜱ.</code>
-• /chats - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴄʜᴀᴛꜱ ᴀɴᴅ ɪᴅꜱ</code>
-• /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ.</code>
-• /disable  -  <code>ᴛᴏ ᴅɪꜱᴀʙʟᴇ ᴀ ᴄʜᴀᴛ.</code>
-• /ban  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /unban  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟꜱ</code>
-• /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ</code>
-• /grp_broadcast - <code>Tᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs.</code>
-• /gfilter - <code>ᴛᴏ ᴀᴅᴅ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs</code>
-• /gfilters - <code>ᴛᴏ ᴠɪᴇᴡ ʟɪsᴛ ᴏғ ᴀʟʟ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs</code>
-• /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ</code>
-• /request - <code>Tᴏ sᴇɴᴅ ᴀ Mᴏᴠɪᴇ/Sᴇʀɪᴇs ʀᴇᴏ̨ᴜᴇsᴛ ᴛᴏ ʙᴏᴛ ᴀᴅᴍɪɴs. Oɴʟʏ ᴡᴏʀᴋs ᴏɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
-• /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
-• /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
+<b>⚙️ Cᴏᴍᴍᴀɴᴅs & Usᴀɢᴇ</b>
 
+<blockquote>
+<b>/id</b>
+<code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ</code>
+
+<b>/info</b>
+<code>ɢᴇᴛ ᴅᴇᴛᴀɪʟᴇᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴏꜰ ᴀ ᴜꜱᴇʀ</code>
+
+<b>/song</b>
+<code>ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ sᴏɴɢ</code>
+<code>Ex: /song vaa vaathi song</code>
+
+<b>/telegraph</b>
+<code>sᴇɴᴅ ᴜɴᴅᴇʀ 5MB ᴘʜᴏᴛᴏ/ᴠɪᴅᴇᴏ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ</code>
+
+<b>/tts</b>
+<code>ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ɪɴᴛᴏ ᴠᴏɪᴄᴇ</code>
+
+<b>/video</b>
+<code>ᴅᴏᴡɴʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ (HD)</code>
+<code>Ex: /video https://youtu.be/xxxx</code>
+
+<b>/font</b>
+<code>ɢᴇɴᴇʀᴀᴛᴇ ꜱᴛʏʟɪsʜ ꜰᴏɴᴛs</code>
+<code>Ex: /font hi</code>
+</blockquote>
+"""
+
+    ADMIN_TXT = """
+<b>╭━━━ 👑 ᴀᴅᴍɪɴ ᴍᴏᴅᴜʟᴇs 👑 ━━━╮</b>
+
+<b>⚠️ ɴᴏᴛᴇ :</b>
+<blockquote>
+<b>Tʜɪs Mᴏᴅᴜʟᴇ Iꜱ Rᴇꜱᴛʀɪᴄᴛᴇᴅ Tᴏ Bᴏᴛ Aᴅᴍɪɴs Oɴʟʏ</b>
+</blockquote>
+
+<b>╰━━━━━━━━━━━━━━━━━━━━╯</b>
+
+<b>🛠️ Aᴅᴍɪɴ Cᴏᴍᴍᴀɴᴅs</b>
+
+<blockquote>
+<b>/logs</b>
+<code>ɢᴇᴛ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀ ʟᴏɢs</code>
+
+<b>/stats</b>
+<code>ᴅᴀᴛᴀʙᴀsᴇ ꜰɪʟᴇ ꜱᴛᴀᴛᴜs (ᴘᴜʙʟɪᴄ)</code>
+
+<b>/delete</b>
+<code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ</code>
+
+<b>/users</b>
+<code>ᴠɪᴇᴡ ᴀʟʟ ᴜꜱᴇʀs & ɪᴅs</code>
+
+<b>/chats</b>
+<code>ᴠɪᴇᴡ ᴀʟʟ ᴄʜᴀᴛs & ɪᴅs</code>
+
+<b>/leave</b>
+<code>ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
+
+<b>/disable</b>
+<code>ᴅɪsᴀʙʟᴇ ᴀ ᴄʜᴀᴛ</code>
+
+<b>/ban</b>
+<code>ʙᴀɴ ᴀ ᴜꜱᴇʀ</code>
+
+<b>/unban</b>
+<code>ᴜɴʙᴀɴ ᴀ ᴜꜱᴇʀ</code>
+
+<b>/channel</b>
+<code>ʟɪsᴛ ᴏꜰ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs</code>
+
+<b>/broadcast</b>
+<code>ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀs</code>
+
+<b>/grp_broadcast</b>
+<code>ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ɢʀᴏᴜᴘs</code>
+
+<b>/gfilter</b>
+<code>ᴀᴅᴅ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀ</code>
+
+<b>/gfilters</b>
+<code>ᴠɪᴇᴡ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀs</code>
+
+<b>/delg</b>
+<code>ᴅᴇʟᴇᴛᴇ ᴀ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀ</code>
+
+<b>/delallg</b>
+<code>ᴡɪᴘᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀs</code>
+
+<b>/deletefiles</b>
+<code>ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ & PʀᴇDVD ꜰɪʟᴇs</code>
+</blockquote>
+""" 
     SEC_STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
@@ -761,3 +819,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+

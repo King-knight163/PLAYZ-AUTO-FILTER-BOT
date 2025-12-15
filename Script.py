@@ -208,11 +208,20 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <code>ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ & PʀᴇDVD ꜰɪʟᴇs</code>
 </blockquote>
 """ 
-    SEC_STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
-★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
-★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code></b>"""
+    SEC_STATUS_TXT = """
+<b>╭━━━ 📊 ʙᴏᴛ sᴛᴀᴛᴜs ᴘᴀɴᴇʟ 📊 ━━━╮</b>
+
+<blockquote>
+<b>👥 Tᴏᴛᴀʟ Usᴇʀs :</b> <code>{}</code>
+<b>💬 Tᴏᴛᴀʟ Cʜᴀᴛs :</b> <code>{}</code>
+<b>📁 Tᴏᴛᴀʟ Fɪʟᴇs :</b> <code>{}</code>
+
+<b>🗄️ Usᴇᴅ Sᴛᴏʀᴀɢᴇ :</b> <code>{} MB</code>
+<b>🟢 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ :</b> <code>{} MB</code>
+</blockquote>
+
+<b>╰━━━━━━━━━━━━━━━━━━━━━━╯</b>
+"""
     
     STATUS_TXT = """
 <b>
@@ -819,4 +828,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 

@@ -140,7 +140,21 @@ CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", """<blockquote>🎬<b><a href="https://t.me/PLAYZ_HACKING">{filename}</a></b></blockquote>
+<blockquote expandable>📅 <b>Year :</b> <code>{year}</code>
+🌐 <b>Language :</b> <code>{language}</code>
+📀 <b>Quality :</b> <code>{quality}</code>
 
+⏱ <b>Duration :</b> <code>{duration}</code>
+🖥 <b>Resolution :</b> <code>{resolution}</code>
+📐 <b>Size :</b> <code>{filesize}</code></blockquote>
+<blockquote>✨ <b>Enjoy Your Movie!</b> ✨  
+
+<b><a href="https://t.me/+wctwFDWc2kRmZDVl">「 ᴊᴏɪɴ ᴏꜰꜰɪᴄɪᴀʟ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ 」</a></b>  
+👉 <b><a href="https://t.me/playz_hacking">「 ᴘʟᴀʏ-ᴢ ʜᴀᴄᴋɪɴɢ 」</a></b></blockquote>
+
+🤖 <b>Powered By :</b>  
+<blockquote><a href="https://t.me/playz_auto_filter_bot">「 🎬 ᴘʟᴀʏ-ᴢ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ 🍿 」</a></blockquote>""")
 
 # Choose Option Settings 
 LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin", "telugu", "tel", "kannada", "kan"]
@@ -196,6 +210,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 

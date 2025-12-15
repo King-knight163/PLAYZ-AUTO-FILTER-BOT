@@ -33,8 +33,8 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 
 # auth_channel means force subscribe channel.
 # if REQUEST_TO_JOIN_MODE is true then force subscribe work like request to join fsub, else if false then work like normal fsub.
-REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', False)) # Set True Or False
-TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', False)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
+REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', True)) # Set True Or False
+TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', True)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
 
 # This Is Force Subscribe Channel, also known as Auth Channel 
 auth_channel = environ.get('AUTH_CHANNEL', '-1002651895234 -1002379287477 -1002549630988 -1002915716927 -1002999790471 -1002915716927') # give your force subscribe channel id here else leave it blank
@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'log_channel_playz') # 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Play_z_Hacking_Discussion')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/PLAYZ_HACKING')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT','https://t.me/Play_z_Hacking_Discussion') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/PLAYZ_90')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/playz_help_bot')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -125,10 +125,10 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 
 
 # Shortlink Info
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False)) # Set True Or False
-SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
-SHORTLINK_API = environ.get('SHORTLINK_API', '')
-TUTORIAL = environ.get('TUTORIAL', '') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'http://shrinkearn.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a6c15c75a0eb56d95603afe74024e977f3edf4e8'')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/PLAYZ_BOTS_PAYOUT/146') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 # Others
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 

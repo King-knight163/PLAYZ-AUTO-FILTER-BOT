@@ -127,7 +127,7 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'http://shrinkearn.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'a6c15c75a0eb56d95603afe74024e977f3edf4e8'')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a6c15c75a0eb56d95603afe74024e977f3edf4e8')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/PLAYZ_BOTS_PAYOUT/146') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
